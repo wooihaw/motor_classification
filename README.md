@@ -16,7 +16,7 @@ motor-load-classifier/
 
 ## Requirements
 
-- Python 3.9+
+- Python 3.13+
 - [git](https://git-scm.com/)
 - [uv](https://docs.astral.sh/uv/) (installed below)
 
